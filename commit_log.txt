@@ -1,3 +1,4 @@
 - Commit 2 (Student Architecture): Design a lightweight, edge-friendly "Student" CNN architecture capable of mimicking the teacher's outputs.
 - Commit 3 (Distillation Pipeline): Implement the knowledge distillation training loop, calculating loss between the Teacher's features and the Student's features.
 - Commit 4 (Edge Modality & TorchServe): Export the compressed Student model and configure it for deployment using an embedded remote TorchServe instance.
+- Commit 5 (Deployment & Polish): Document the compression ratios (model size reduction) and write scripts for launching the TorchServe endpoint.
