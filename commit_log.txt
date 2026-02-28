@@ -1,0 +1,1 @@
+- Commit 2 (Student Architecture): Design a lightweight, edge-friendly "Student" CNN architecture capable of mimicking the teacher's outputs.
