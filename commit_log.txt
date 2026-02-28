@@ -1,1 +1,2 @@
 - Commit 2 (Student Architecture): Design a lightweight, edge-friendly "Student" CNN architecture capable of mimicking the teacher's outputs.
+- Commit 3 (Distillation Pipeline): Implement the knowledge distillation training loop, calculating loss between the Teacher's features and the Student's features.
