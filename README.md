@@ -1,0 +1,1 @@
+# VisionDistill-GAN\n\n**VisionDistill: Machine Perception GAN - Student-teacher knowledge distillation framework to compress a heavy generative adversarial network.**\n\n## Tech Stack\n- PyTorch\n- TorchServe\n- CNNs\n- Distillation\n
